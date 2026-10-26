@@ -128,17 +128,16 @@ export default function HeroHeader() {
       {/* Interfaz HTML superpuesta sobre el canvas */}
       <div className="hero-ui">
         <nav className="hero-nav" aria-label="Principal">
-          <span className="hero-brand">Tu Nombre</span>
+          <span className="hero-brand">Camilo</span>
           <div className="hero-links">
-            <a href="#proyectos">Proyectos</a>
             <a href="#contacto">Contacto</a>
           </div>
         </nav>
 
         <div className="hero-copy">
-          <h1>Hola, soy Tu&nbsp;Nombre.</h1>
+          <h1>Hola, soy Camilo.</h1>
           <p>
-            Ingeniero multimedia. Diseño y programo experiencias web interactivas con React y 3D.
+            Estudiante de Ingeniería en Multimedia, Mercadeo y Negocios Internacionales.
           </p>
           <div className="hero-actions">
             <a className="btn btn-primary" href="#proyectos">
